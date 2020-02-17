@@ -13,7 +13,7 @@
     "express": "~4.2.0",
     "express-session": "^1.2.1",
     "hjs": "~0.0.6",
-    "morgan": "~1.0.0",
+    "morgan": "~1.9.1",
     "orchestrate": "^0.1.2",
     "passport": "^0.2.0",
     "passport-twitter": "^1.0.2",
